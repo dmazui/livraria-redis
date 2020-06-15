@@ -3,7 +3,7 @@ package com.dimaz.livraria.domain.dtos;
 import lombok.Data;
 
 @Data
-public class LivroForm {
+public class LivroDTO {
 	
 	private String id;
 	private String titulo;
